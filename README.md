@@ -10,7 +10,7 @@ This project aims to develop a machine learning model that predicts wine quality
 ## 📁 Repository Structure
 
 ```
-project_2__Wine_Quality.ipynb
+Wine_Quality.ipynb
 ├── 1. Imports
 ├── 2. EDA (Exploratory Data Analysis)
 ├── 3. Data Preprocessing
